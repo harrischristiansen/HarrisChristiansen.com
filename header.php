@@ -3,8 +3,11 @@
 	<head>
 		<title>Harris Christiansen <? if($pageTitle!="") { echo " - ".$pageTitle; } ?></title>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
+		<meta name="description" content="Harris Christiansen is an accomplished software developer, hardware hacker, and problem solver from Salt Lake City, Utah. He is currently attending Purdue University studying Computer Science." />
+		<meta name="keywords" content="Harris, Christiansen, Software Developer, Planet Maelstrom, Forumzbb, Harris C, Utah, Salt Lake City, Purdue, Portfolio, Hackathons, PHP, Python, OpenCV, Java, Vuforia, Quadcopter, Drone, iDrone, Javascript, Unity, C#, Maya" />
+		<meta name="author" content="Harris Christiansen">
+		<link REL="SHORTCUT ICON" HREF="/images/fav.png">
+		
 		<!--[if lte IE 8]><script src="/css/ie/html5shiv.js"></script><![endif]-->
 		<script src="/js/jquery.min.js"></script>
 		<script src="/js/jquery.dropotron.min.js"></script>

@@ -40,7 +40,7 @@
 							<hr>
 							
 							<header>
-								<h3>FRC Team 3245 - <i class="icon fa-wrench"></i></h3>
+								<h3>FRC Team 3245 - <i class="icon fa-wrench"></i> <i class="icon-java" title="Java"></i></h3>
 								<p>The Waterford School, Sandy, UT - 2010 - 2014</p>
 							</header>
 							<ul>
@@ -48,6 +48,12 @@
 								<li>Placed first in qualifiers and won the FIRST Regional Competition in Las Vegas, NV. Also received the Quality Award by Motorola in 2013.</li>
 								<li>Won the FIRST Regional Competition in Salt Lake City, UT and Las Vegas, NV in 2012.</li>
 								<li>Developed crowd scouting application for the robotics competition. - <i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-php" title="PHP"></i> <i class="icon-mysql-alt" title="Mysql"></i></li>
+							</ul>
+							Robot Code:
+							<ul>
+								<li>2014 - <a href="/code/2014BotCode.pdf" target="_blank">View Code</a></li>
+								<li>2013 - <a href="/code/2013BotCode.pdf" target="_blank">View Code</a></li>
+								<li>2012 - <a href="/code/2012BotCode.pdf" target="_blank">View Code</a></li>
 							</ul>
 							
 						</section>
