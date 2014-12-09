@@ -1,5 +1,2 @@
 User-agent: *
-Disallow: /js/
 Disallow: /blanks/
-Disallow: /css/
-Disallow: /fonts/
