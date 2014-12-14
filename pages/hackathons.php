@@ -34,7 +34,8 @@
 							</header>
 							<p>iFollow uses Remote Image Processing to search for targets and remotely, autonomously control a quadcopter.</p>
 							<p><b>Awards:</b> Best Newbie Hack</p>
-							<a href="http://challengepost.com/software/ifollow-quadcopter" target="_blank">Read More On ChallengePost</a>
+							<a href="http://challengepost.com/software/ifollow-quadcopter" target="_blank">Read More On ChallengePost</a><br>
+							<a href="http://dailytrojan.com/2014/11/09/hacksc-brings-entrepreneurs-together/" target="_blank">Read More About HackSC On DailyTrojan</a>
 							
 							<hr>
 							
