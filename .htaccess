@@ -72,6 +72,8 @@ AddOutputFilterByType DEFLATE text/css text/html text/plain text/xml text/javasc
 
 </IfModule>
 
+Redirect 301 /github https://www.github.com/harrischristiansen
+Redirect 301 /linkedin https://www.linkedin.com/in/harrischristiansen
 
 # Add www. to start of address.
 <IfModule mod_rewrite.c>
