@@ -1,6 +1,9 @@
 <?
 	$page = "work";
 	$pageTitle = "Work Experience";
+	$pageDesc = "Harris Christiansen has worked at many startups around the country, developing new technologies in a variety of fields.";
+	$pageKeywords = "Harris, Christiansen, Software Developer, Planet Maelstrom, Forumzbb, Harris C, Utah, Salt Lake City, Purdue, Portfolio, Hackathons, PHP, Python, OpenCV, Java, Vuforia, Quadcopter, Drone, iDrone, Javascript, Unity, C#, Maya";
+	$pageKeywords += ", iDrone, Verbatim Solutions, CTO, Web Developer, Web Application Developer, AGA Systems, CAD, Waterford, Waterford School, Palmer Christiansen, Project Engineer, Spivey Engineering, Video Game Developer, Waterford Institute";
 	require($_SERVER['DOCUMENT_ROOT']."/header.php");
 ?>
 
@@ -13,7 +16,7 @@
 						
 					<!-- Content -->
 						<section id="content">
-							
+							<? /*
 							<header>
 								<h3>CTO - iDrone - <i class="icon-python" title="Python"></i> <i class="icon-csharp" title="C#"></i> <i class="icon fa-apple" title="iOS"></i> <i class="icon fa-android" title="Android"></i></h3>
 								<p>Salt Lake City, UT - Summer 2014-Present</p>
@@ -39,7 +42,7 @@
 							<a href="http://www.VerbatimSolutions.com" target="_blank">www.VerbatimSolutions.com</a>
 							
 							<hr>
-							
+							*/ ?>
 							<header>
 								<h3>Lead Web Application Developer - AGA Systems Inc - <i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-php" title="PHP"></i> <i class="icon-mysql-alt" title="Mysql"></i></h3>
 								<p>Kaysville, UT – Summer 2013-Present</p>

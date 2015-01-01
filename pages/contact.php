@@ -1,6 +1,8 @@
 <?
 	$page = "contact";
 	$pageTitle = "Contact";
+	$pageDesc = "";
+	$pageKeywords = "";
 	require($_SERVER['DOCUMENT_ROOT']."/header.php");
 ?>
 

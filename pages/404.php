@@ -1,6 +1,8 @@
 <?
 	$page = "pageNotFound";
 	$pageTitle = "Page Not Found";
+	$pageDesc = "";
+	$pageKeywords = "";
 	require($_SERVER['DOCUMENT_ROOT']."/header.php");
 ?>
 
