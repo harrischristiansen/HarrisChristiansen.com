@@ -54,6 +54,7 @@
 								<li>Under the Dome</li>
 								<li>The Last Ship</li>
 								<li>The 100</li>
+								<li>The Strain</li>
 							</ul>
 							Previous:
 							<ul>
