@@ -74,6 +74,7 @@
 									<a href="/hackathons">Hackathons</a>
 									<? } ?>
 									<ul>
+										<li><a href="http://challengepost.com/software/remember-me-facial-recognition" target="_blank">Remember Me</a></li>
 										<li><a href="http://challengepost.com/software/virtual-builder" target="_blank">Virtual Builder</a></li>
 										<li><a href="http://challengepost.com/software/ifollow-quadcopter" target="_blank">iFollow</a></li>
 										<li><a href="http://challengepost.com/software/ouijabot-of7ax" target="_blank">OuijaBot</a></li>

@@ -22,6 +22,16 @@
 							<hr>
 							
 							<header>
+								<h3>Remember Me - <i class="icon-csharp" title="C#"></i> <i class="icon-python" title="Python"></i> <i class="icon fa-eye" title="Open CV"></i></h3>
+								<p><a href="http://www.pennapps.com" target="_blank">PennApps</a> - UPenn - Philadelphia, PA - January 16-18, 2015</p>
+							</header>
+							<p>Facial Recognition for remembering names and faces. Keep track of who they are with notes, and share your contacts on the cloud.</p>
+							<p><b>Awards:</b> Top 30</p>
+							<a href="http://challengepost.com/software/remember-me-facial-recognition" target="_blank">Read More On ChallengePost</a>
+							
+							<hr>
+							
+							<header>
 								<h3>Virtual Builder - <i class="icon-csharp" title="C#"></i> <i class="icon fa-eye" title="Vuforia"></i></h3>
 								<p><a href="http://www.hackrpi.com" target="_blank">HackRPI</a> - RPI - Troy, NY - November 15-16, 2014</p>
 							</header>

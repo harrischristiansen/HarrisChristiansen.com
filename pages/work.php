@@ -16,7 +16,6 @@
 						
 					<!-- Content -->
 						<section id="content">
-							<? /*
 							<header>
 								<h3>CTO - iDrone - <i class="icon-python" title="Python"></i> <i class="icon-csharp" title="C#"></i> <i class="icon fa-apple" title="iOS"></i> <i class="icon fa-android" title="Android"></i></h3>
 								<p>Salt Lake City, UT - Summer 2014-Present</p>
@@ -42,7 +41,6 @@
 							<a href="http://www.VerbatimSolutions.com" target="_blank">www.VerbatimSolutions.com</a>
 							
 							<hr>
-							*/ ?>
 							<header>
 								<h3>Lead Web Application Developer - AGA Systems Inc - <i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-php" title="PHP"></i> <i class="icon-mysql-alt" title="Mysql"></i></h3>
 								<p>Kaysville, UT – Summer 2013-Present</p>
