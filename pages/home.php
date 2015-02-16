@@ -10,7 +10,7 @@
 			<section id="banner">
 				<div class="inner">
 					<h2>Harris Christiansen</h2>
-					<p>Hardware Hacker. Software Developer. Project Leader.</p>
+					<p>Creator and Innovator</p>
 				</div>
 			</section>
 
@@ -21,7 +21,7 @@
 							<h2>Born and Raised<br />
 							In Salt Lake City, Utah</h2>
 						</header>
-						<p style="padding-bottom: 4em;">Today I attend Purdue University in West Lafayette, Indiana. I spend my time traveling the nation attending hackathons, solving problems and exploring new ideas. I am currently working on developing the future of drone technologies with the startup, iDrone.</p>
+						<p style="padding-bottom: 4em;">Today I attend Purdue University in West Lafayette, Indiana. I spend my time traveling the nation attending hackathons, solving problems and exploring new ideas. I am a skilled programmer with a knack for hardware. I am driven by curiosity, and I love to learn and try new things.</p>
 				</div>
 			</section>
 		
@@ -85,10 +85,9 @@
 						<div class="6u 12u$(2)">
 							<section class="feature">
 								<i class="icon fa-gears"></i>
-								<h3>Embedded Software</h3>
+								<h3>Software Engineering</h3>
 								<h5 class="advanced">Experience: Advanced</h5>
-								<p style="padding-bottom: 0.2em;">Arduino, Python, Java</p>
-								<h5 class="beginner">Beginner: C++</h5>
+								<p style="padding-bottom: 0.2em;">Python, Java, C, C++, Arduino</p>
 							</section>
 						</div>
 						<div class="6u$ 12u$(2)">

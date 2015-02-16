@@ -58,7 +58,7 @@
 								<p>Sandy, UT - Summer 2014</p>
 							</header>
 							<ul>
-								<li>Designed large storage equipment to be fabricated for the upcoming school year.</li>
+								<li>Designed large crew oar rack storage equipment to be fabricated for the upcoming school year.</li>
 							</ul>
 							<a href="http://www.WaterfordSchool.org" target="_blank">www.WaterfordSchool.org</a>
 							

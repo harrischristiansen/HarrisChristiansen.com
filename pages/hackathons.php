@@ -25,7 +25,7 @@
 								<h3>Remember Me - <i class="icon-csharp" title="C#"></i> <i class="icon-python" title="Python"></i> <i class="icon fa-eye" title="Open CV"></i></h3>
 								<p><a href="http://www.pennapps.com" target="_blank">PennApps</a> - UPenn - Philadelphia, PA - January 16-18, 2015</p>
 							</header>
-							<p>Facial Recognition for remembering names and faces. Keep track of who they are with notes, and share your contacts on the cloud.</p>
+							<p>Facial Recognition for remembering names and faces. Keep track of contacts with facial recognition, add personal notes, and share your "address book" on the cloud.</p>
 							<p><b>Awards:</b> Top 30</p>
 							<a href="http://challengepost.com/software/remember-me-facial-recognition" target="_blank">Read More On ChallengePost</a>
 							
@@ -56,7 +56,7 @@
 								<h3>OuijaBot - <i class="icon-python" title="Python"></i> <i class="icon-cplusplus" title="C++ (Arduino)"></i></h3>
 								<p><a href="http://www.yhack.org" target="_blank">YHack</a> - Yale - New Haven, CT - October 31 - November 2, 2014</p>
 							</header>
-							<p>Bringing an OuijaBoard to life using servos and magnets.</p>
+							<p>OuijaBot is a functioning OuijaBoard that comes to life using a combination of speech recognition, clever response generation, arduinos, servos, and magnets.</p>
 							<a href="http://challengepost.com/software/ouijabot-of7ax" target="_blank">Read More On ChallengePost</a>
 							
 							<hr>
