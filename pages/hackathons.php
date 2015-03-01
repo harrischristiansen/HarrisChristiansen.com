@@ -21,11 +21,25 @@
 							
 							<hr>
 							
+							<? /*
+							
+							<header>
+								<h3>Project Name - <i class="icon-cplusplus" title="C++ (Arduino)"></i></h3>
+								<p><a href="http://www.hackillinois.com" target="_blank">Hack Illinois</a> - UIUC - Urbana-Champaign, IL - Feburary 27 - March 1, 2015</p>
+								
+							</header>
+							<p>Project Name delivers important information to victims of natural disasters, as well as allows victims to notify first responders + loved ones of their location and status.</p>
+							<p><b>Awards:</b> TBD</p>
+							<a href="http://challengepost.com/software/remember-me-facial-recognition" target="_blank">Read More On ChallengePost</a>
+							
+							<hr>
+							
+							*/ ?>
+							
 							<header>
 								<h3>Remember Me - <i class="icon-csharp" title="C#"></i> <i class="icon-python" title="Python"></i> <i class="icon fa-eye" title="Open CV"></i></h3>
-								<p><a href="http://www.pennapps.com" target="_blank">PennApps</a> - UPenn - Philadelphia, PA - January 16-18, 2015</p>
 							</header>
-							<p>Facial Recognition for remembering names and faces. Keep track of contacts with facial recognition, add personal notes, and share your "address book" on the cloud.</p>
+							<p><a href="http://www.pennapps.com" target="_blank">PennApps</a> - UPenn - Philadelphia, PA - January 16-18, 2015</p>
 							<p><b>Awards:</b> Top 30</p>
 							<a href="http://challengepost.com/software/remember-me-facial-recognition" target="_blank">Read More On ChallengePost</a>
 							
