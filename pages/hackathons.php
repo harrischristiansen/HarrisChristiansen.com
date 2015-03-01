@@ -3,7 +3,7 @@
 	$pageTitle = "Hackathons";
 	$pageDesc = "Harris Christiansen attends many Hackathons across the nation. His hacks often center around hardware, computer vision, and games - exploring new technologies and skills.";
 	$pageKeywords = "Harris, Christiansen, Software Developer, Planet Maelstrom, Forumzbb, Harris C, Utah, Salt Lake City, Purdue, Portfolio, Hackathons, PHP, Python, OpenCV, Java, Vuforia, Quadcopter, Drone, iDrone, Javascript, Unity, C#, Maya";
-	$pageKeywords += ", Virtual Builder, HackRPI, iFollow, HackSC, OuijaBot, YHack, Preview, Boilermake, Quad Control, Hackmizzou";
+	$pageKeywords += ", Virtual Builder, HackRPI, iFollow, HackSC, OuijaBot, YHack, Preview, Boilermake, Quad Control, Hackmizzou, HackIllinois, CloudScout";
 	require($_SERVER['DOCUMENT_ROOT']."/header.php");
 ?>
 
@@ -21,20 +21,15 @@
 							
 							<hr>
 							
-							<? /*
-							
 							<header>
-								<h3>Project Name - <i class="icon-cplusplus" title="C++ (Arduino)"></i></h3>
+								<h3><a href="/hackillinois">CloudScout</a> - <i class="icon-cplusplus" title="C++ (Arduino)"></i> <i class="icon-python" title="Python"></i> <i class="icon-php" title="PHP"></i></h3>
 								<p><a href="http://www.hackillinois.com" target="_blank">Hack Illinois</a> - UIUC - Urbana-Champaign, IL - Feburary 27 - March 1, 2015</p>
-								
 							</header>
-							<p>Project Name delivers important information to victims of natural disasters, as well as allows victims to notify first responders + loved ones of their location and status.</p>
-							<p><b>Awards:</b> TBD</p>
-							<a href="http://challengepost.com/software/remember-me-facial-recognition" target="_blank">Read More On ChallengePost</a>
+							<p>CloudScout delivers important information to victims of natural disasters, as well as allows victims to notify first responders + loved ones of their location and status.</p>
+							<p><b>Awards:</b> Second Place - Hardware Hack, MailJet API Award</p>
+							<a href="http://challengepost.com/software/cloudscout" target="_blank">Read More On ChallengePost</a>
 							
 							<hr>
-							
-							*/ ?>
 							
 							<header>
 								<h3>Remember Me - <i class="icon-csharp" title="C#"></i> <i class="icon-python" title="Python"></i> <i class="icon fa-eye" title="Open CV"></i></h3>
