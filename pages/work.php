@@ -2,7 +2,7 @@
 	$page = "work";
 	$pageTitle = "Work Experience";
 	$pageDesc = "Harris Christiansen has worked at many startups around the country, developing new technologies in a variety of fields.";
-	$pageKeywords = "Harris, Christiansen, Software Developer, Planet Maelstrom, Forumzbb, Harris C, Utah, Salt Lake City, Purdue, Portfolio, Hackathons, PHP, Python, OpenCV, Java, Vuforia, Quadcopter, Drone, iDrone, Javascript, Unity, C#, Maya";
+	$pageKeywords = "Harris, Christiansen, Christianson, Christensen, Christenson, Software Developer, Planet Maelstrom, Forumzbb, Harris C, Utah, Salt Lake City, Purdue, Portfolio, Hackathons, PHP, Python, OpenCV, Java, Vuforia, Quadcopter, Drone, iDrone, Javascript, Unity, C#, Maya";
 	$pageKeywords += ", iDrone, Verbatim Solutions, CTO, Web Developer, Web Application Developer, AGA Systems, CAD, Waterford, Waterford School, Palmer Christiansen, Project Engineer, Spivey Engineering, Video Game Developer, Waterford Institute";
 	require($_SERVER['DOCUMENT_ROOT']."/header.php");
 ?>

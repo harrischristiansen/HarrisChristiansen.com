@@ -2,7 +2,7 @@
 	$page = "home";
 	$pageTitle = "";
 	$pageDesc = "Harris Christiansen is an accomplished software developer, hardware hacker, and problem solver from Salt Lake City, Utah. He is currently attending Purdue University studying Computer Science.";
-	$pageKeywords = "Harris, Christiansen, Software Developer, Planet Maelstrom, Forumzbb, Harris C, Utah, Salt Lake City, Purdue, Portfolio, Hackathons, PHP, Python, OpenCV, Java, Vuforia, Quadcopter, Drone, iDrone, Javascript, Unity, C#, Maya";
+	$pageKeywords = "Harris, Christiansen, Christianson, Christensen, Christenson, Software Developer, Planet Maelstrom, Forumzbb, Harris C, Utah, Salt Lake City, Purdue, Portfolio, Hackathons, PHP, Python, OpenCV, Java, Vuforia, Quadcopter, Drone, iDrone, Javascript, Unity, C#, Maya";
 	require($_SERVER['DOCUMENT_ROOT']."/header.php");
 ?>
 

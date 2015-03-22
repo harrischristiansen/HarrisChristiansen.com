@@ -2,7 +2,7 @@
 	$page = "hackathons";
 	$pageTitle = "Hackathons";
 	$pageDesc = "Harris Christiansen attends many Hackathons across the nation. His hacks often center around hardware, computer vision, and games - exploring new technologies and skills.";
-	$pageKeywords = "Harris, Christiansen, Software Developer, Planet Maelstrom, Forumzbb, Harris C, Utah, Salt Lake City, Purdue, Portfolio, Hackathons, PHP, Python, OpenCV, Java, Vuforia, Quadcopter, Drone, iDrone, Javascript, Unity, C#, Maya";
+	$pageKeywords = "Harris, Christiansen, Christianson, Christensen, Christenson, Software Developer, Planet Maelstrom, Forumzbb, Harris C, Utah, Salt Lake City, Purdue, Portfolio, Hackathons, PHP, Python, OpenCV, Java, Vuforia, Quadcopter, Drone, iDrone, Javascript, Unity, C#, Maya";
 	$pageKeywords += ", Virtual Builder, HackRPI, iFollow, HackSC, OuijaBot, YHack, Preview, Boilermake, Quad Control, Hackmizzou, HackIllinois, CloudScout";
 	require($_SERVER['DOCUMENT_ROOT']."/header.php");
 ?>

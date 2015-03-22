@@ -2,7 +2,7 @@
 	$page = "projects";
 	$pageTitle = "Personal Projects";
 	$pageDesc = "Harris Christiansen always has multiple personal projects running at a time, ranging from video games to startup ideas.";
-	$pageKeywords = "Harris, Christiansen, Software Developer, Planet Maelstrom, Forumzbb, Harris C, Utah, Salt Lake City, Purdue, Portfolio, Hackathons, PHP, Python, OpenCV, Java, Vuforia, Quadcopter, Drone, iDrone, Javascript, Unity, C#, Maya";
+	$pageKeywords = "Harris, Christiansen, Christianson, Christensen, Christenson, Software Developer, Planet Maelstrom, Forumzbb, Harris C, Utah, Salt Lake City, Purdue, Portfolio, Hackathons, PHP, Python, OpenCV, Java, Vuforia, Quadcopter, Drone, iDrone, Javascript, Unity, C#, Maya";
 	$pageKeywords += ", Projects, Planet Maelstrom, MMORPG, ForumzBB, Team 3245, FRC";
 	require($_SERVER['DOCUMENT_ROOT']."/header.php");
 ?>

@@ -2,7 +2,7 @@
 	$page = "hackIllinois";
 	$pageTitle = "Cloud Scout - Hack Illinois";
 	$pageDesc = "Cloud Scout delivers important information to victims of natural disasters, as well as allows victims to notify first responders + loved ones of their location and status. Project Name was built at Hack Illinois by Harris Christiansen, Marty Kausas, Usmann Khan, and Dung Tran.";
-	$pageKeywords = "Harris, Christiansen, Software Developer, Planet Maelstrom, Forumzbb, Harris C, Utah, Salt Lake City, Purdue, Portfolio, Hackathons, PHP, Python, OpenCV, Java, Vuforia, Quadcopter, Drone, iDrone, Javascript, Unity, C#, Maya";
+	$pageKeywords = "Harris, Christiansen, Christianson, Christensen, Christenson, Software Developer, Planet Maelstrom, Forumzbb, Harris C, Utah, Salt Lake City, Purdue, Portfolio, Hackathons, PHP, Python, OpenCV, Java, Vuforia, Quadcopter, Drone, iDrone, Javascript, Unity, C#, Maya";
 	$pageKeywords += ", HackIllinois, UIUC, Illionis, Rescue, Help, Disaster, Texts, SMS, Email, Natural, Disaster, Victims, First, Responder, Location, CloudScout, Cloud, Scout";
 	require($_SERVER['DOCUMENT_ROOT']."/header.php");
 ?>

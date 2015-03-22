@@ -2,7 +2,7 @@
 	$page = "hobbies";
 	$pageTitle = "Hobbies";
 	$pageDesc = "Harris Christiansen spends his time attending hackathons, prototyping hardware, exploring new technologies, and keeping up with his favorite tv shows.";
-	$pageKeywords = "Harris, Christiansen, Software Developer, Planet Maelstrom, Forumzbb, Harris C, Utah, Salt Lake City, Purdue, Portfolio, Hackathons, PHP, Python, OpenCV, Java, Vuforia, Quadcopter, Drone, iDrone, Javascript, Unity, C#, Maya";
+	$pageKeywords = "Harris, Christiansen, Christianson, Christensen, Christenson, Software Developer, Planet Maelstrom, Forumzbb, Harris C, Utah, Salt Lake City, Purdue, Portfolio, Hackathons, PHP, Python, OpenCV, Java, Vuforia, Quadcopter, Drone, iDrone, Javascript, Unity, C#, Maya";
 	$pageKeywords += ", Hobbies, 3D Printing, Cube, Maya, CAD, TV";
 	require($_SERVER['DOCUMENT_ROOT']."/header.php");
 ?>
