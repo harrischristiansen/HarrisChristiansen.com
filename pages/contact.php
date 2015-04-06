@@ -12,7 +12,6 @@
 			<?
 			if(isset($_POST['email'])) {
 				$msgTo="harris@harrischristiansen.com";
-				$msgSubject="Website Contact Submission From ".$nameFrom;
 				$nameFrom = $_POST['name'];
 				$contactEmail = $_POST['email'];
 				$userMsg = $_POST['message'];
@@ -27,6 +26,8 @@
 			    	echo "<p>Invalid Email Address</p>";
 			    	return;
 				}
+				
+				$msgSubject="Website Contact Submission From ".clean_string($nameFrom);
 				
 				$mailMsg="";
 				$mailMsg .= "Name: ".clean_string($nameFrom)."\n";
