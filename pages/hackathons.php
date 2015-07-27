@@ -33,8 +33,10 @@
 							
 							<header>
 								<h3>Remember Me - <i class="icon-csharp" title="C#"></i> <i class="icon-python" title="Python"></i> <i class="icon fa-eye" title="Open CV"></i></h3>
+								<p><a href="http://www.pennapps.com" target="_blank">PennApps</a> - UPenn - Philadelphia, PA - January 16-18, 2015</p>
 							</header>
-							<p><a href="http://www.pennapps.com" target="_blank">PennApps</a> - UPenn - Philadelphia, PA - January 16-18, 2015</p>
+							
+							<p>Remember Me uses Facial Recognition to quickly remind you of the important information about someone.</p>
 							<p><b>Awards:</b> Top 30</p>
 							<a href="http://challengepost.com/software/remember-me-facial-recognition" target="_blank">Read More On ChallengePost</a>
 							
