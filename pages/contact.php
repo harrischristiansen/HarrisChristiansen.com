@@ -1,4 +1,11 @@
 <?
+	$invalidMsgRegex = "/http:\/\/[a-zA-Z]+\.ru/";
+				
+	function clean_string($string) {
+		$bad = array("content-type","bcc:","to:","cc:");
+		return str_replace($bad,"",$string);
+	}
+	
 	$page = "contact";
 	$pageTitle = "Contact";
 	$pageDesc = "";
@@ -12,14 +19,9 @@
 			<?
 			if(isset($_POST['email'])) {
 				$msgTo="harris@harrischristiansen.com";
-				$nameFrom = $_POST['name'];
-				$contactEmail = $_POST['email'];
-				$userMsg = $_POST['message'];
-				
-				function clean_string($string) {
-					$bad = array("content-type","bcc:","to:","cc:","href");
-					return str_replace($bad,"",$string);
-				}
+				$nameFrom = htmlentities(clean_string($_POST['name']));
+				$contactEmail = clean_string($_POST['email']);
+				$userMsg = htmlentities(clean_string($_POST['message']));
 				
 				if (!filter_var($contactEmail, FILTER_VALIDATE_EMAIL)) {
 					echo "<h2>Contact Submission Failed</h2><header>";
@@ -27,19 +29,24 @@
 			    	return;
 				}
 				
+				if ($userMsg=="" || preg_match ($invalidMsgRegex,$userMsg)) {
+					echo "<h2>Contact Submission Failed</h2><header>";
+			    	echo "<p>Invalid submission</p>";
+			    	return;
+				}
+				
 				$msgSubject="Website Contact Submission From ".clean_string($nameFrom);
 				
 				$mailMsg="";
-				$mailMsg .= "Name: ".clean_string($nameFrom)."\n";
-				$mailMsg .= "Email: ".clean_string($contactEmail)."\n";
-				$mailMsg .= "Message: ".clean_string($userMsg)."\n";
+				$mailMsg .= "Name: ".$nameFrom."\n";
+				$mailMsg .= "Email: ".$contactEmail."\n";
+				$mailMsg .= "\n\n".$userMsg."\n";
 				
 				$headers = "From: contact@harrischristiansen.com"."\n";
-				$headers .= "Reply-to: ".clean_string($contactEmail);
+				$headers .= "Reply-to: ".$contactEmail;
 				mail($msgTo,$msgSubject,$mailMsg,$headers);
 				
 				echo "<h2>Success - Message Sent</h2></header>";
-			    echo "<p>I try to reply to all messages within 12 hours.</p>";
 			}
 			?>
 			<a href="/" class="button special">Return To Home</a>
