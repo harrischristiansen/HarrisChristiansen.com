@@ -2,7 +2,7 @@
 	$page = "home";
 	$pageTitle = "";
 	$pageDesc = "Harris Christiansen is an accomplished software developer, hardware hacker, and problem solver from Salt Lake City, Utah. He is currently attending Purdue University studying Computer Science.";
-	$pageKeywords = "Harris, Christiansen, Christianson, Christensen, Christenson, Software Developer, Planet Maelstrom, Forumzbb, Harris C, Utah, Salt Lake City, Purdue, Portfolio, Hackathons, PHP, Python, OpenCV, Java, Vuforia, Quadcopter, Drone, iDrone, Javascript, Unity, C#, Maya";
+	$pageKeywords = "Harris, Christiansen, Christianson, Christensen, Christenson, Software Developer, Planet Maelstrom, Forumzbb, Harris C, Utah, Salt Lake City, Purdue, Portfolio, Hackathons, PHP, Python, OpenCV, Java, Vuforia, Quadcopter, Drone, iDrone, Javascript, Unity, C#, Maya, Apple, Hackers, Purdue Hackers";
 	require($_SERVER['DOCUMENT_ROOT']."/header.php");
 ?>
 
@@ -34,26 +34,26 @@
 					<div class="row">
 						<div class="4u 12u(2)">
 							<section class="image-feature">
-								<a href="http://challengepost.com/software/ifollow-quadcopter" target="_blank">
+								<a href="https://github.com/harrischristiansen/MembersPortal" target="_blank">
 									<header>
-										<h3>iFollow</h3>
+										<h3>Purdue Hackers</h3>
 									</header>
-									<span class="image fit"><img src="images/projects/hacksc.jpg" alt="HackSC iFollow Quadcopter" /></span>
+									<span class="image fit"><img src="images/projects/purduehackers.svg" alt="Purdue Hackers Logo" /></span>
 									<footer>
-										<p>Nov 2014 - Vision processing on a quadcopter for follow me and search+rescue.</p>
+										<p>Web-application for managing Purdue Hackers members, events, and community involvement.</p>
 									</footer>
 								</a>
 							</section>
 						</div>
 						<div class="4u 12u(2)">
 							<section class="image-feature">
-								<a href="http://challengepost.com/software/virtual-builder" target="_blank">
+								<a href="https://github.com/harrischristiansen/PH_Battleship" target="_blank">
 									<header>
-										<h3>Virtual Builder</h3>
+										<h3>PH Battleship</h3>
 									</header>
-									<span class="image fit"><img src="images/projects/hackrpi.png" alt="HackRPI Virtual Builder" /></span>
+									<span class="image fit"><img src="images/projects/battleship.png" alt="Battleship" /></span>
 									<footer>
-										<p>Nov 2014 - Create your map in the real world, explore it in 3D in our app.</p>
+										<p>Developed Server, Web-application, and sample clients for the PH Battleship event. Used by over 100 students.</p>
 									</footer>
 								</a>
 							</section>
@@ -66,7 +66,7 @@
 									</header>
 									<span class="image fit"><img src="images/projects/pm.png" alt="Planet Maelstrom" /></span>
 									<footer>
-										<p>June 2014 - 3D MMORPG Video Game Builder, Made Using Unity Engine</p>
+										<p>3D MMORPG Video Game World Builder. Allows players to create objects and manipulate the environment.</p>
 									</footer>
 								</a>
 							</section>
@@ -111,7 +111,7 @@
 								<i class="icon fa-cloud"></i>
 								<h3>Backend Web Development</h3>
 								<h5 class="advanced">Experience: Advanced</h5>
-								<p style="padding-bottom: 0.2em;">PHP + experience with a variety of web hosting platforms.</p>
+								<p style="padding-bottom: 0.2em;">PHP (Laravel), Python (Django)</p>
 								<h5 class="beginner">Beginner: NodeJS</h5>
 							</section>
 						</div>
@@ -119,8 +119,8 @@
 							<section class="feature">
 								<i class="icon fa-mobile"></i>
 								<h3>Mobile</h3>
-								<h5 class="beginner">Experience: Beginner</h5>
-								<p>iOS (Swift) and Android</p>
+								<h5 class="intermediate">Experience: Intermediate</h5>
+								<p>iOS (Swift, Obj C)</p>
 							</section>
 						</div>
 						<div class="6u$ 12u$(2)">

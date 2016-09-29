@@ -82,11 +82,11 @@ Redirect 301 /angel https://angel.co/harrischristiansen
 Redirect 301 /stackoverflow http://stackoverflow.com/users/3884972/harris-christiansen
 
 # Add www. to start of address.
-<IfModule mod_rewrite.c>
-   RewriteCond %{HTTPS} !=on
-   RewriteCond %{HTTP_HOST} !^www\..+$ [NC]
-   RewriteRule ^ http://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
-</IfModule>
+#<IfModule mod_rewrite.c>
+#   RewriteCond %{HTTPS} !=on
+#   RewriteCond %{HTTP_HOST} !^www\..+$ [NC]
+#   RewriteRule ^ http://www.%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+#</IfModule>
 
 
 ErrorDocument 404 /pages/404.php
