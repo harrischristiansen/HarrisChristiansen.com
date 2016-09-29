@@ -22,17 +22,40 @@
 								<p>2014 - Present</p>
 							</header>
 							<p>Attend Hackathons Across the Nation</p>
-							<a href="/hackathons">Read More</a>
+							<a href="/hackathons">See More...</a>
 							
 							<hr>
 							
 							<header>
+								<h3>Purdue Hackers Portal - <i class="icon-csharp" title="Langs"></i></h3>
+								<p>Fall 2016</p>
+							</header>
+							<p>Web-application for managing Purdue Hackers members, events, and community involvement.</p>
+							<p>Visit at: <a href="http://www.purduehackers.com/" target="_blank">PurdueHackers.com</a><br>
+								Source: <a href="https://github.com/harrischristiansen/MembersPortal" target="_blank">GitHub</a></p>
+							
+							<hr style="clear: both;">
+							
+							<img src="images/projects/battleship_wide.png" alt="Battleship" style="float: right; max-height: 200px;">
+							<header>
+								<h3>Purdue Hackers Battleship -  <i class="icon-python" title="Python"></i> <i class="icon-java" title="Java"></i><i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-php" title="PHP"></i> <i class="icon-mysql-alt" title="Mysql"></i></h3>
+								<p>Spring 2016</p>
+							</header>
+							<p>Developed Server, Web-application, and sample clients for the PH Battleship event. Used by over 100 students.</p>
+							<p>Find it on: <a href="https://github.com/harrischristiansen/PH_Battleship" target="_blank">GitHub</a><br>
+								Facebook Event: <a href="https://www.facebook.com/events/1500273880281410/" target="_blank">Here</a></p>
+							
+							<hr style="clear: both;">
+							
+							<span class="image right"><img src="images/projects/pm.png" alt="Planet Maelstrom" style="max-height: 300px;"></span>
+							<header>
 								<h3>Planet Maelstrom - <i class="icon-csharp" title="C#"></i> <i class="icon fa-cube" title="Autodesk Maya"></i></h3>
 								<p>Summer 2014</p>
 							</header>
-							<p>3D MMORPG Video Game Development Tool, Made Using Unity Engine</p>
+							<p>3D MMORPG Video Game World Builder. Allows players to create objects and manipulate the environment.</p>
+							<p>All models drawn in Autodesk Maya. Game made using Unity Engine with C#. Web interface developed in PHP.</p>
 							
-							<hr>
+							<hr style="clear: both;">
 							
 							<header>
 								<h3>ForumzBB - <i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-php" title="PHP"></i> <i class="icon-mysql-alt" title="Mysql"></i></h3>

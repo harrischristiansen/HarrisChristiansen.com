@@ -21,8 +21,8 @@
 								<p>Cupertino, CA - Summer 2016</p>
 							</header>
 							<ul>
-								<li>Developed new iOS feature with direction from HI and various teams across Apple.</li>
-								<li>Contributed to bug/feature work across many applications and frameworks, including Settings, Accounts, and iCloud.</li>
+								<li>Developed new iOS feature with direction from HI Design and various teams across Apple</li>
+								<li>Contributed to bug/feature work across many applications and frameworks, including Settings, Accounts, and iCloud</li>
 							</ul>
 							
 							<a href="http://www.apple.com" target="_blank">www.apple.com</a>
