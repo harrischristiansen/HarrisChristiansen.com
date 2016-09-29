@@ -3,7 +3,7 @@
 	$pageTitle = "Work Experience";
 	$pageDesc = "Harris Christiansen has experience working at many companies around the country, developing new technologies in a variety of fields.";
 	$pageKeywords = "Harris, Christiansen, Christianson, Christensen, Christenson, Software Developer, Planet Maelstrom, Forumzbb, Harris C, Utah, Salt Lake City, Purdue, Portfolio, Hackathons, PHP, Python, OpenCV, Java, Vuforia, Quadcopter, Drone, iDrone, Javascript, Unity, C#, Maya";
-	$pageKeywords += ", iDrone, Verbatim Solutions, CTO, Web Developer, Web Application Developer, AGA Systems, CAD, Waterford, Waterford School, Palmer Christiansen, Project Engineer, Spivey Engineering, Video Game Developer, Waterford Institute, Apple";
+	$pageKeywords += ", iDrone, Verbatim Solutions, CTO, Web Developer, Web Application Developer, AGA Systems, CAD, Waterford, Waterford School, Palmer Christiansen, Project Engineer, Spivey Engineering, Video Game Developer, Waterford Institute, Apple, iOS Apps and Frameworks, Apple Software Engineering";
 	require($_SERVER['DOCUMENT_ROOT']."/header.php");
 ?>
 
@@ -17,6 +17,19 @@
 					<!-- Content -->
 						<section id="content">
 							<header>
+								<h3>iOS Apps and Frameworks - Software Engineering Intern - Apple - <i class="icon-objc" title="Objective C"></i></h3>
+								<p>Cupertino, CA - Summer 2016</p>
+							</header>
+							<ul>
+								<li>Developed new iOS feature with direction from HI and various teams across Apple.</li>
+								<li>Contributed to bug/feature work across many applications and frameworks, including Settings, Accounts, and iCloud.</li>
+							</ul>
+							
+							<a href="http://www.apple.com" target="_blank">www.apple.com</a>
+							
+							<hr>
+							
+							<header>
 								<h3>Technical HR Intern - Apple - <i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-php" title="PHP"></i> <i class="icon-mysql-alt" title="Mysql"></i> <i class="icon-python" title="Python"></i></h3>
 								<p>Cupertino, CA - Summer 2015</p>
 							</header>
@@ -25,9 +38,10 @@
 								<li>Developed solution to generate automated reports</li>
 							</ul>
 							
-							<a href="http://www.apple.com" target="_blank">www.Apple.com</a>
+							<a href="http://www.apple.com" target="_blank">www.apple.com</a>
 							
 							<hr>
+							
 							<header>
 								<h3>CTO - iDrone - <i class="icon-python" title="Python"></i> <i class="icon-csharp" title="C#"></i> <i class="icon fa-apple" title="iOS"></i> <i class="icon fa-android" title="Android"></i></h3>
 								<p>Salt Lake City, UT - Summer 2014-Spring 2015</p>
