@@ -26,6 +26,7 @@
 							
 							<hr>
 							
+							<img src="images/projects/ph.png" alt="Battleship" style="float: right; max-height: 100px;">
 							<header>
 								<h3>Purdue Hackers Portal - <i class="icon-csharp" title="Langs"></i></h3>
 								<p>Fall 2016</p>
