@@ -27,7 +27,7 @@
 							</header>
 							<p>CloudScout delivers important information to victims of natural disasters, as well as allows victims to notify first responders + loved ones of their location and status.</p>
 							<p><b>Awards:</b> Second Place - Hardware Hack, MailJet API Award</p>
-							<a href="http://challengepost.com/software/cloudscout" target="_blank">Read More On ChallengePost</a>
+							Read More On <a href="http://challengepost.com/software/cloudscout" target="_blank">ChallengePost</a>
 							
 							<hr>
 							
@@ -38,7 +38,8 @@
 							
 							<p>Remember Me uses Facial Recognition to quickly remind you of the important information about someone.</p>
 							<p><b>Awards:</b> Top 30</p>
-							<a href="http://challengepost.com/software/remember-me-facial-recognition" target="_blank">Read More On ChallengePost</a>
+							Read More On <a href="http://challengepost.com/software/remember-me-facial-recognition" target="_blank">ChallengePost</a><br>
+							View Source On <a href="https://github.com/harrischristiansen/RememberMe-pennappsS15" target="_blank">Github</a>
 							
 							<hr>
 							
@@ -48,7 +49,7 @@
 							</header>
 							<p>Create your video game map in the real world, explore it in 3D using Virtual Builder.</p>
 							<p><b>Awards:</b> Runner-Up: Video Game/Virtual Reality Hack</p>
-							<a href="http://challengepost.com/software/virtual-builder" target="_blank">Read More On ChallengePost</a>
+							Read More On <a href="http://challengepost.com/software/virtual-builder" target="_blank">ChallengePost</a>
 							
 							<hr>
 							
@@ -58,8 +59,9 @@
 							</header>
 							<p>iFollow uses Remote Image Processing to search for targets and remotely, autonomously control a quadcopter.</p>
 							<p><b>Awards:</b> Best Newbie Hack</p>
-							<a href="http://challengepost.com/software/ifollow-quadcopter" target="_blank">Read More On ChallengePost</a><br>
-							<a href="http://dailytrojan.com/2014/11/09/hacksc-brings-entrepreneurs-together/" target="_blank">Read More About HackSC On DailyTrojan</a>
+							Read More On <a href="http://challengepost.com/software/ifollow-quadcopter" target="_blank">ChallengePost</a><br>
+							View Source On <a href="https://github.com/harrischristiansen/HackSC-iFollow" target="_blank">Github</a><br>
+							Read More About HackSC On <a href="http://dailytrojan.com/2014/11/09/hacksc-brings-entrepreneurs-together/" target="_blank">DailyTrojan</a>
 							
 							<hr>
 							
@@ -68,7 +70,7 @@
 								<p><a href="http://www.yhack.org" target="_blank">YHack</a> - Yale - New Haven, CT - October 31 - November 2, 2014</p>
 							</header>
 							<p>OuijaBot is a functioning OuijaBoard that comes to life using a combination of speech recognition, clever response generation, arduinos, servos, and magnets.</p>
-							<a href="http://challengepost.com/software/ouijabot-of7ax" target="_blank">Read More On ChallengePost</a>
+							Read More On <a href="http://challengepost.com/software/ouijabot-of7ax" target="_blank">ChallengePost</a>
 							
 							<hr>
 							
@@ -77,8 +79,8 @@
 								<p><a href="http://www.boilermake.org" target="_blank">BoilerMake</a> - Purdue - West Lafayette, IN - October 17-19, 2014</p>
 							</header>
 							<p>Assisted planning through augmented reality</p>
-							<p><b>Awards:</b> 6th Place and Best Use of Vuforia</p>
-							<a href="http://challengepost.com/software/preview" target="_blank">Read More On ChallengePost</a>
+							<p><b>Awards:</b> 6th Place and Best Use of <a href="https://www.vuforia.com" target="_blank">Vuforia</a></p>
+							Read More On <a href="http://challengepost.com/software/preview" target="_blank">ChallengePost</a>
 							
 							<hr>
 							
@@ -88,7 +90,7 @@
 							</header>
 							<p>Leap Motion Control of Quadcopters</p>
 							<p><b>Awards:</b> 2nd Place and Best Hardware Hack (Sponsored by <a href="http://www.tradebot.com" target="_blank">Tradebot</a>)</p>
-							<a href="http://challengepost.com/software/quad-control" target="_blank">Read More On ChallengePost</a>
+							Read More On <a href="http://challengepost.com/software/quad-control" target="_blank">ChallengePost</a>
 							
 							
 						</section>

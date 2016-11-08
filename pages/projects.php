@@ -33,7 +33,7 @@
 							</header>
 							<p>Web-application for managing Purdue Hackers members, events, and community involvement.</p>
 							<p>Visit at: <a href="http://www.purduehackers.com/" target="_blank">PurdueHackers.com</a><br>
-								Source: <a href="https://github.com/harrischristiansen/MembersPortal" target="_blank">GitHub</a></p>
+								View Source On <a href="https://github.com/harrischristiansen/MembersPortal" target="_blank">GitHub</a></p>
 							
 							<hr style="clear: both;">
 							
