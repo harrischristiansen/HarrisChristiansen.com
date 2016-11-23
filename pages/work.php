@@ -17,6 +17,17 @@
 					<!-- Content -->
 						<section id="content">
 							<header>
+								<h3>Software Engineering Intern - Perceive Inc - <i class="icon-python" title="Python"></i> <i class="icon-html" title="HTML"></i> <i class="icon-css" title="CSS"></i> <i class="icon-javascript" title="Javascript"></i></h3>
+								<p>West Lafayette, IN - Fall 2016</p>
+							</header>
+							<ul>
+								<li>Developed tools for machine learning to improve in-store marketing</li>
+							</ul>
+							
+							<a href="https://www.perceiveinc.com" target="_blank">www.perceiveinc.com</a>
+							
+							<hr>
+							<header>
 								<h3>iOS Apps and Frameworks - Software Engineering Intern - Apple - <i class="icon-objc" title="Objective C"></i></h3>
 								<p>Cupertino, CA - Summer 2016</p>
 							</header>
