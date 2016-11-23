@@ -43,6 +43,7 @@
 							
 							<hr>
 							
+							<span class="image right"><img src="images/projects/hackrpi.png" alt="Virtual Builder - HackRPI" style="max-height: 300px;"></span>
 							<header>
 								<h3>Virtual Builder - <i class="icon-csharp" title="C#"></i> <i class="icon fa-eye" title="Vuforia"></i></h3>
 								<p><a href="http://www.hackrpi.com" target="_blank">HackRPI</a> - RPI - Troy, NY - November 15-16, 2014</p>
@@ -51,8 +52,9 @@
 							<p><b>Awards:</b> Runner-Up: Video Game/Virtual Reality Hack</p>
 							Read More On <a href="http://challengepost.com/software/virtual-builder" target="_blank">ChallengePost</a>
 							
-							<hr>
+							<hr style="clear: both;">
 							
+							<span class="image right"><img src="images/projects/hacksc.jpg" alt="Harris Christansen - HackSC 2014" style="max-height: 250px;"></span>
 							<header>
 								<h3>iFollow - <i class="icon-python" title="Python"></i> <i class="icon fa-eye" title="Open CV"></i></h3>
 								<p><a href="http://www.hacksc.com" target="_blank">HackSC</a> - USC - Los Angeles, CA - November 7-9, 2014</p>
@@ -63,7 +65,7 @@
 							View Source On <a href="https://github.com/harrischristiansen/iFollow-HackSC" target="_blank">Github</a><br>
 							Read More About HackSC On <a href="http://dailytrojan.com/2014/11/09/hacksc-brings-entrepreneurs-together/" target="_blank">DailyTrojan</a>
 							
-							<hr>
+							<hr style="clear: both;">
 							
 							<header>
 								<h3>OuijaBot - <i class="icon-python" title="Python"></i> <i class="icon-cplusplus" title="C++ (Arduino)"></i></h3>
@@ -84,6 +86,7 @@
 							
 							<hr>
 							
+							<span class="image right"><img src="images/projects/hackmizzou.jpg" alt="Quad Control - Hack Mizzou" style="max-height: 280px;"></span>
 							<header>
 								<h3>Quad Control - <i class="icon-cplusplus" title="C++ (Arduino)"></i></h3>
 								<p><a href="http://www.hackmizzou.com" target="_blank">HackMizzou</a> - University Of Missouri - Columbia, MO - October 3-5, 2014</p>
@@ -92,6 +95,7 @@
 							<p><b>Awards:</b> 2nd Place and Best Hardware Hack (Sponsored by <a href="http://www.tradebot.com" target="_blank">Tradebot</a>)</p>
 							Read More On <a href="http://challengepost.com/software/quad-control" target="_blank">ChallengePost</a>
 							
+							<hr style="clear: both;">
 							
 						</section>
 
