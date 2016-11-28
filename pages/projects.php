@@ -28,7 +28,7 @@
 							
 							<img src="images/projects/ph.png" alt="Battleship" style="float: right; max-height: 100px;">
 							<header>
-								<h3>Purdue Hackers Portal - <i class="icon-csharp" title="Langs"></i></h3>
+								<h3>Purdue Hackers Portal - <i class="icon-php" title="PHP"></i> <i class="icon-laravel" title="Laravel"></i> <i class="icon-mysql-alt" title="Mysql"></i></h3> <i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-javascript" title="Javascript"></i>
 								<p>Fall 2016</p>
 							</header>
 							<p>Web-application for managing Purdue Hackers members, events, and community involvement.</p>
@@ -39,7 +39,7 @@
 							
 							<img src="images/projects/battleship_wide.png" alt="Battleship" style="float: right; max-height: 200px;">
 							<header>
-								<h3>Purdue Hackers Battleship -  <i class="icon-python" title="Python"></i> <i class="icon-java" title="Java"></i><i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-php" title="PHP"></i> <i class="icon-mysql-alt" title="Mysql"></i></h3>
+								<h3>Purdue Hackers Battleship -  <i class="icon-python" title="Python"></i> <i class="icon-java" title="Java"></i><i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-php" title="PHP"></i> <i class="icon-laravel" title="Laravel"></i> <i class="icon-mysql-alt" title="Mysql"></i></h3>
 								<p>Spring 2016</p>
 							</header>
 							<p>Developed Server, Web-application, and sample clients for the PH Battleship event. Used by over 100 students.</p>
