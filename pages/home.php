@@ -34,6 +34,19 @@
 					<div class="row">
 						<div class="4u 12u(2)">
 							<section class="image-feature">
+								<a href="https://github.com/harrischristiansen/generals-bot" target="_blank">
+									<header>
+										<h3>Generals.io Bot</h3>
+									</header>
+									<span class="image fit"><img src="images/projects/generals.png" alt="Generals.io" /></span>
+									<footer>
+										<p>Automated client (bot) for playing generals.io, a web based multiplayer game.</p>
+									</footer>
+								</a>
+							</section>
+						</div>
+						<div class="4u 12u(2)">
+							<section class="image-feature">
 								<a href="https://github.com/harrischristiansen/MembersPortal" target="_blank">
 									<header>
 										<h3>Purdue Hackers</h3>
@@ -58,20 +71,8 @@
 								</a>
 							</section>
 						</div>
-						<div class="4u 12u(2)">
-							<section class="image-feature">
-								<a href="/projects">
-									<header>
-										<h3>Planet Maelstrom</h3>
-									</header>
-									<span class="image fit"><img src="images/projects/pm.png" alt="Planet Maelstrom" /></span>
-									<footer>
-										<p>3D MMORPG Video Game World Builder. Allows players to create objects and manipulate the environment.</p>
-									</footer>
-								</a>
-							</section>
-						</div>
 					</div>
+					<a href="/projects" class="button special small">View More Projects</a>
 				</div>
 			</section>
 		

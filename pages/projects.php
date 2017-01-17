@@ -26,9 +26,20 @@
 							
 							<hr>
 							
+							<span class="image right"><img src="images/projects/generals.png" alt="Generals.io" style="float: right; max-height: 270px;"></span>
+							<header>
+								<h3>Generals.io Bot - <i class="icon-python" title="Python"></i></h3>
+								<p>Spring 2017</p>
+							</header>
+							<p>Automated client (bot) for playing generals.io, a web based multiplayer game.</p>
+							<p>View Bot Source On <a href="https://github.com/harrischristiansen/generals-bot" target="_blank">GitHub</a><br>
+								Play Generals At: <a href="http://www.generals.io/" target="_blank">Generals.io</a></p>
+							
+							<hr style="clear: both;">
+							
 							<img src="images/projects/ph.png" alt="Battleship" style="float: right; max-height: 100px;">
 							<header>
-								<h3>Purdue Hackers Portal - <i class="icon-php" title="PHP"></i> <i class="icon-laravel" title="Laravel"></i> <i class="icon-mysql-alt" title="Mysql"></i></h3> <i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-javascript" title="Javascript"></i>
+								<h3>Purdue Hackers Portal - <i class="icon-php" title="PHP"></i> <i class="icon-laravel" title="Laravel"></i> <i class="icon-mysql-alt" title="Mysql"></i> <i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-javascript" title="Javascript"></i></h3>
 								<p>Fall 2016</p>
 							</header>
 							<p>Web-application for managing Purdue Hackers members, events, and community involvement.</p>
