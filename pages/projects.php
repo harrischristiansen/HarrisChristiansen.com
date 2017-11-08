@@ -19,7 +19,7 @@
 							
 							<header>
 								<h3>Hackathons - <i class="icon fa-wrench"></i></h3>
-								<p>2014 - Present</p>
+								<p>2014 - 2017</p>
 							</header>
 							<p>Attend Hackathons Across the Nation</p>
 							<a href="/hackathons">See More...</a>
@@ -53,7 +53,7 @@
 								<h3>Purdue Hackers Battleship -  <i class="icon-python" title="Python"></i> <i class="icon-java" title="Java"></i><i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-php" title="PHP"></i> <i class="icon-laravel" title="Laravel"></i> <i class="icon-mysql-alt" title="Mysql"></i></h3>
 								<p>Spring 2016</p>
 							</header>
-							<p>Developed Server, Web-application, and sample clients for the PH Battleship event. Used by over 100 students.</p>
+							<p>Developed Server, web-application, and sample clients for the Purdue Hackers Battleship event. Used by over 100 students.</p>
 							<p>Find it on: <a href="https://github.com/harrischristiansen/PH_Battleship" target="_blank">GitHub</a><br>
 								Facebook Event: <a href="https://www.facebook.com/events/1500273880281410/" target="_blank">Here</a></p>
 							
@@ -89,9 +89,9 @@
 							</ul>
 							Robot Code:
 							<ul>
-								<li>2014 - <a href="/code/2014BotCode.pdf" target="_blank">View Code</a></li>
-								<li>2013 - <a href="/code/2013BotCode.pdf" target="_blank">View Code</a></li>
-								<li>2012 - <a href="/code/2012BotCode.pdf" target="_blank">View Code</a></li>
+								<li>2014 - <a href="/code/2014BotCode.pdf" target="_blank">View 2014 Code</a></li>
+								<li>2013 - <a href="https://github.com/harrischristiansen/frc_2013/blob/master/code/may21_13/UtCompBot13/src/edu/first/team3245/UtCompBot.java" target="_blank">View 2013 (Watty) Code</a></li>
+								<li>2012 - <a href="/code/2012BotCode.pdf" target="_blank">View 2012 (Corvey) Code</a></li>
 							</ul>
 							
 						</section>

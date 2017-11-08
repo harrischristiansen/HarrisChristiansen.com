@@ -45,23 +45,26 @@
 							</header>
 							Current:
 							<ul>
-								<li>Blacklist</li>
-								<li>Scorpion</li>
+								<li>Arrow</li>
 								<li>Doctor Who</li>
-								<li>Agents of S.H.I.E.L.D.</li>
-								<li>Continuum</li>
+								<li>Scorpion</li>
 								<li>NCIS</li>
-								<li>Under the Dome</li>
+								<li>Silicon Valley</li>
 								<li>The Last Ship</li>
+								<li>Under the Dome</li>
+								<li>Westworld</li>
 								<li>The 100</li>
-								<li>The Strain</li>
 							</ul>
 							Previous:
 							<ul>
+								<li>Agents of S.H.I.E.L.D.</li>
 								<li>Battlestar Galictica</li>
-								<li>Revolution</li>
+								<li>Blacklist</li>
+								<li>Continuum</li>
 								<li>Crisis</li>
 								<li>House</li>
+								<li>Revolution</li>
+								<li>The Strain</li>
 							</ul>
 							
 						</section>

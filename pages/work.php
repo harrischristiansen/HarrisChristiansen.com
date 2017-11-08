@@ -16,6 +16,20 @@
 						
 					<!-- Content -->
 						<section id="content">
+							
+							<header>
+								<h3>iOS Software Engineering Intern - Facebook - <i class="icon-objc" title="Objective C"></i> <i class="icon-php" title="PHP"></i> <i class="icon-mysql-alt" title="Mysql"></i></h3>
+								<p>Menlo Park, CA - Summer 2017</p>
+							</header>
+							<ul>
+								<li>Developed several features to improve the new user experience on Facebook for iOS</li>
+								<li>Launched biweekly experiments to test and collect data on UI changes</li>
+							</ul>
+							
+							<a href="https://www.facebook.com" target="_blank">www.facebook.com</a>
+							
+							<hr>
+							
 							<header>
 								<h3>Software Engineering Intern - Perceive Inc - <i class="icon-python" title="Python"></i> <i class="icon-html" title="HTML"></i> <i class="icon-css" title="CSS"></i> <i class="icon-javascript" title="Javascript"></i></h3>
 								<p>West Lafayette, IN - Fall 2016</p>
@@ -27,6 +41,7 @@
 							<a href="https://www.perceiveinc.com" target="_blank">www.perceiveinc.com</a>
 							
 							<hr>
+							
 							<header>
 								<h3>iOS Apps and Frameworks - Software Engineering Intern - Apple - <i class="icon-objc" title="Objective C"></i></h3>
 								<p>Cupertino, CA - Summer 2016</p>
@@ -36,7 +51,7 @@
 								<li>Contributed to bug/feature work across many applications and frameworks, including Settings, Accounts, and iCloud</li>
 							</ul>
 							
-							<a href="http://www.apple.com" target="_blank">www.apple.com</a>
+							<a href="https://www.apple.com" target="_blank">www.apple.com</a>
 							
 							<hr>
 							
