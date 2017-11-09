@@ -1,0 +1,3 @@
+[submodule "hue"]
+	path = hue
+	url = https://harrischristiansen@github.com/harrischristiansen/hue_webcontrols
