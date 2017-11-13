@@ -13,10 +13,10 @@
 		<script src="/js/jquery.dropotron.min.js"></script>
 		<script src="/js/skel.min.js"></script>
 		<script src="/js/skel-layers.min.js"></script>
-		<script src="/js/init.js"></script>
+		<script src="/js/init.js?v=1"></script>
 		<noscript>
 			<link rel="stylesheet" href="/css/skel.css" />
-			<link rel="stylesheet" href="/css/style.css" />
+			<link rel="stylesheet" href="/css/style.css?v=2" />
 			<link rel="stylesheet" href="/css/style-wide.css" />
 		</noscript>
 		<!--[if lte IE 8]><link rel="stylesheet" href="/css/ie/v8.css" /><![endif]-->
@@ -44,43 +44,17 @@
 				<? } ?>
 				<nav id="nav">
 					<ul>
-						<? if($page=="home") { ?>
-						<li><a href="#banner">Home</a></li>
-						<? } else { ?>
-						<li><a href="/home">Home</a></li>
-						<? } ?>
+						<li><a href="<? echo ($page == "home") ? '#banner' : '/home'; ?>">Home</a></li>
 						<li>
 							<a href="#" class="icon fa-angle-down">Experience</a>
 							<ul>
-								<? if($page=="work") { ?>
-								<li><a href="#">Work</a></li>
-								<? } else { ?>
-								<li><a href="/work">Work</a></li>
-								<? } ?>
-								<? if($page=="projects") { ?>
-								<li><a href="#">Projects</a></li>
-								<? } else { ?>
-								<li><a href="/projects">Projects</a></li>
-								<? } ?>
-								<? if($page=="hobbies") { ?>
-								<li><a href="#">Hobbies</a></li>
-								<? } else { ?>
-								<li><a href="/hobbies">Hobbies</a></li>
-								<? } ?>
-								<li>
-									<? if($page=="hackathons") { ?>
-									<a href="#">Hackathons</a>
-									<? } else { ?>
-									<a href="/hackathons">Hackathons</a>
-									<? } ?>
-								</li>
+								<li><a href="<? echo ($page == "work") ? '#' : '/work'; ?>">Work</a></li>
+								<li><a href="<? echo ($page == "projects") ? '#' : '/projects'; ?>">Projects</a></li>
+								<li><a href="<? echo ($page == "hobbies") ? '#' : '/hobbies'; ?>">Hobbies</a></li>
+								<li><a href="<? echo ($page == "hackathons") ? '#' : '/hackathons'; ?>">Hackathons</a></li>
 							</ul>
 						</li>
-						<? if($page=="home") { ?>
-						<li><a href="#contact">Contact</a></li>
-						<? } else { ?>
-						<li><a href="/home#contact">Contact</a></li>
-						<? } ?>
+						<li><a href="<? echo ($page == "home") ? '#contact' : 'home#contact'; ?>">Contact</a></li>
 					</ul>
 				</nav>
 			</header>

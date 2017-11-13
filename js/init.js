@@ -9,7 +9,7 @@
 	skel.init({
 		reset: 'full',
 		breakpoints: {
-			global:		{ range: '*', href: '/css/style.css', containers: 1200, grid: { gutters: ['3em', 0] } },
+			global:		{ range: '*', href: '/css/style.css?v=2', containers: 1200, grid: { gutters: ['3em', 0] } },
 			wide:		{ range: '-1680', href: '/css/style-wide.css', containers: 1080 },
 			normal:		{ range: '-1280', href: '/css/style-normal.css', containers: 960, grid: { gutters: ['2em', 0] }, viewport: { scalable: false } },
 			narrow:		{ range: '-980', href: '/css/style-narrow.css', containers: '90%!', grid: { zoom: 2 } },
@@ -92,37 +92,33 @@
 			var $banner = $('#banner');
 			
 			if ($banner.length > 0) {
-				
-				// Parallax background.
-					if (skel.vars.browser != 'ie'
-					&&	!skel.vars.isMobile) {
-
-						var originalPosition = $banner.css('background-position');
-						
-						skel.change(function() {
-							
-							if (skel.isActive('normal')) {
-								
-								$window.off('scroll.px');
-								$banner.css('background-position', originalPosition);
-							
-							}
-							else {
-								
-								$banner.css('background-position', 'center 0px');
-						
-								$window.on('scroll.px', function() {
-									$banner.css('background-position', 'center ' + (parseInt($window.scrollTop()) * -0.5) + 'px');
-								});
-								
-							}
-						
-						});
-					
-					}
-				
+				addParallaxBanner($window, $banner);
 			}
 		
 	});
 
 })(jQuery);
+
+function addParallaxBanner($window, $banner) {
+	if (skel.vars.browser != 'ie' && !skel.vars.isMobile) {
+		var originalPosition = $banner.css('background-position');
+		
+		skel.change(function() {
+			if (skel.isActive('normal')) {
+				$window.off('scroll.px');
+				$banner.css('background-position', originalPosition);
+			
+			} else {
+				$banner.css('background-position', 'center, bottom, top');
+		
+				$window.on('scroll.px', function() {
+					pattern_pos = "center";
+					city_pos = 'center bottom ' + (parseInt($window.scrollTop()) * 0.6) + 'px';
+					bg_pos = 'center ' + (parseInt($window.scrollTop()) * -0.5) + 'px'
+					$banner.css('background-position', pattern_pos + ", " + city_pos + ", " + bg_pos);
+				});
+				
+			}
+		});
+	}
+}
