@@ -1165,7 +1165,7 @@
 		background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAYAAACddGYaAAAAD0lEQVQIW2NkQABjRmQOAAM+AGkQsDBSAAAAAElFTkSuQmCC), url("../images/slc_city.png"), url("../images/slc.jpg");
 		background-position: center, bottom, top;
 		background-repeat: repeat, no-repeat, no-repeat;
-		background-size: auto, contain, cover;
+		background-size: auto, auto 35.2%, cover;
 		color: #fff;
 		/*padding: 17em 0;*/
 		height: 100%;

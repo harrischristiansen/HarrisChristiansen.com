@@ -109,16 +109,34 @@ function addParallaxBanner($window, $banner) {
 				$banner.css('background-position', originalPosition);
 			
 			} else {
-				$banner.css('background-position', 'center, bottom, top');
+				updateParallaxBanner($window, $banner);
 		
 				$window.on('scroll.px', function() {
-					pattern_pos = "center";
-					city_pos = 'center bottom ' + (parseInt($window.scrollTop()) * 0.6) + 'px';
-					bg_pos = 'center ' + (parseInt($window.scrollTop()) * -0.5) + 'px'
-					$banner.css('background-position', pattern_pos + ", " + city_pos + ", " + bg_pos);
+					updateParallaxBanner($window, $banner);
+				});
+		
+				$(window).resize(function() {
+					updateParallaxBanner($window, $banner);
 				});
 				
 			}
 		});
 	}
+}
+
+function updateParallaxBanner($window, $banner) {
+	width_to_height = $window.innerWidth() / $window.innerHeight();
+	console.log(width_to_height);
+	
+	pattern_pos = "center";
+	city_pos = 'center bottom ' + (parseInt($window.scrollTop()) * 0.6) + 'px';
+	if (width_to_height > 1.78) {
+		city_size = "100%";
+		city_pos = 'center calc(100% - ' + ((parseInt($window.scrollTop()) * 0.6) - (250 * (width_to_height - 1.78)) - 5) + 'px)'
+	} else {
+		city_size = "auto 35.2%";
+	}
+	bg_pos = 'center ' + (parseInt($window.scrollTop()) * -0.5) + 'px'
+	$banner.css('background-position', pattern_pos + ", " + city_pos + ", " + bg_pos);
+	$banner.css('background-size', "auto, "+city_size+", cover");
 }
