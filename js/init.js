@@ -9,7 +9,7 @@
 	skel.init({
 		reset: 'full',
 		breakpoints: {
-			global:		{ range: '*', href: '/css/style.css?v=2', containers: 1200, grid: { gutters: ['3em', 0] } },
+			global:		{ range: '*', href: '/css/style.css?v=3', containers: 1200, grid: { gutters: ['3em', 0] } },
 			wide:		{ range: '-1680', href: '/css/style-wide.css', containers: 1080 },
 			normal:		{ range: '-1280', href: '/css/style-normal.css', containers: 960, grid: { gutters: ['2em', 0] }, viewport: { scalable: false } },
 			narrow:		{ range: '-980', href: '/css/style-narrow.css', containers: '90%!', grid: { zoom: 2 } },
@@ -104,8 +104,9 @@ function addParallaxBanner($window, $banner) {
 		var originalPosition = $banner.css('background-position');
 		
 		skel.change(function() {
-			if (skel.isActive('normal')) {
+			if (skel.isActive('narrow')) {
 				$window.off('scroll.px');
+				$window.off('resize.px');
 				$banner.css('background-position', originalPosition);
 			
 			} else {
@@ -115,7 +116,7 @@ function addParallaxBanner($window, $banner) {
 					updateParallaxBanner($window, $banner);
 				});
 		
-				$(window).resize(function() {
+				$window.on('resize.px',function() {
 					updateParallaxBanner($window, $banner);
 				});
 				
@@ -126,7 +127,6 @@ function addParallaxBanner($window, $banner) {
 
 function updateParallaxBanner($window, $banner) {
 	width_to_height = $window.innerWidth() / $window.innerHeight();
-	console.log(width_to_height);
 	
 	pattern_pos = "center";
 	city_pos = 'center bottom ' + (parseInt($window.scrollTop()) * 0.6) + 'px';

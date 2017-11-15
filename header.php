@@ -13,10 +13,10 @@
 		<script src="/js/jquery.dropotron.min.js"></script>
 		<script src="/js/skel.min.js"></script>
 		<script src="/js/skel-layers.min.js"></script>
-		<script src="/js/init.js?v=1"></script>
+		<script src="/js/init.js?v=3"></script>
 		<noscript>
 			<link rel="stylesheet" href="/css/skel.css" />
-			<link rel="stylesheet" href="/css/style.css?v=2" />
+			<link rel="stylesheet" href="/css/style.css?v=3" />
 			<link rel="stylesheet" href="/css/style-wide.css" />
 		</noscript>
 		<!--[if lte IE 8]><link rel="stylesheet" href="/css/ie/v8.css" /><![endif]-->
