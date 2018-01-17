@@ -48,10 +48,9 @@
 						<li>
 							<a href="#" class="icon fa-angle-down">Experience</a>
 							<ul>
-								<li><a href="<? echo ($page == "work") ? '#' : '/work'; ?>">Work</a></li>
+								<li><a href="<? echo ($page == "work") ? '#' : '/work'; ?>">Work Experience</a></li>
 								<li><a href="<? echo ($page == "projects") ? '#' : '/projects'; ?>">Projects</a></li>
 								<li><a href="<? echo ($page == "hobbies") ? '#' : '/hobbies'; ?>">Hobbies</a></li>
-								<li><a href="<? echo ($page == "hackathons") ? '#' : '/hackathons'; ?>">Hackathons</a></li>
 							</ul>
 						</li>
 						<li><a href="<? echo ($page == "home") ? '#contact' : 'home#contact'; ?>">Contact</a></li>

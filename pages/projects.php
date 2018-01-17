@@ -17,14 +17,16 @@
 					<!-- Content -->
 						<section id="content">
 							
+							<span class="image right"><img src="http://files.harrischristiansen.com/3r2N0m123I1K/hue_webcontrol.png" alt="Hue Webcontrols" style="float: right; max-height: 270px;"></span>
 							<header>
-								<h3>Hackathons - <i class="icon fa-wrench"></i></h3>
-								<p>2014 - 2017</p>
+								<h3>Hue Webcontrols - <i class="icon-php" title="PHP"></i> <i class="icon-laravel" title="Laravel"></i> <i class="icon-mysql-alt" title="Mysql"></i> <i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-javascript" title="Javascript"></i></h3>
+								<p>Fall 2017</p>
 							</header>
-							<p>Attend Hackathons Across the Nation</p>
-							<a href="/hackathons">See More...</a>
+							<p>Web interface for viewing and controlling smart home lights.</p>
+							<p>View Source on <a href="https://github.com/harrischristiansen/hue_webcontrols" target="_blank">GitHub</a><br>
+								View Controls at <a href="http://www.harrischristiansen.com/hue" target="_blank">harrischristiansen.com/hue</a></p>
 							
-							<hr>
+							<hr style="clear: both;">
 							
 							<span class="image right"><img src="images/projects/generals.png" alt="Generals.io" style="float: right; max-height: 270px;"></span>
 							<header>
@@ -32,10 +34,19 @@
 								<p>Spring 2017</p>
 							</header>
 							<p>Automated client (bot) for playing generals.io, a web based multiplayer game.</p>
-							<p>View Bot Source On <a href="https://github.com/harrischristiansen/generals-bot" target="_blank">GitHub</a><br>
-								Play Generals At: <a href="http://www.generals.io/" target="_blank">Generals.io</a></p>
+							<p>View Bot Source on <a href="https://github.com/harrischristiansen/generals-bot" target="_blank">GitHub</a><br>
+								Play Generals at <a href="http://www.generals.io/" target="_blank">Generals.io</a></p>
 							
 							<hr style="clear: both;">
+							
+							<header>
+								<h3>Hackathons - <i class="icon fa-wrench"></i></h3>
+								<p>2014 - 2017</p>
+							</header>
+							<p>Attend Hackathons Across the Nation</p>
+							<a href="/hackathons">View List of Hackathons, Projects, and Awards</a>
+							
+							<hr>
 							
 							<img src="images/projects/ph.png" alt="Battleship" style="float: right; max-height: 100px;">
 							<header>
@@ -43,7 +54,7 @@
 								<p>Fall 2016</p>
 							</header>
 							<p>Web-application for managing Purdue Hackers members, events, and community involvement.</p>
-							<p>Visit at: <a href="http://www.purduehackers.com/" target="_blank">PurdueHackers.com</a><br>
+							<p>Visit at <a href="http://www.purduehackers.com/" target="_blank">www.PurdueHackers.com</a><br>
 								View Source On <a href="https://github.com/harrischristiansen/MembersPortal" target="_blank">GitHub</a></p>
 							
 							<hr style="clear: both;">
@@ -54,7 +65,7 @@
 								<p>Spring 2016</p>
 							</header>
 							<p>Developed Server, web-application, and sample clients for the Purdue Hackers Battleship event. Used by over 100 students.</p>
-							<p>Find it on: <a href="https://github.com/harrischristiansen/PH_Battleship" target="_blank">GitHub</a><br>
+							<p>Find it on <a href="https://github.com/harrischristiansen/PH_Battleship" target="_blank">GitHub</a><br>
 								Facebook Event: <a href="https://www.facebook.com/events/1500273880281410/" target="_blank">Here</a></p>
 							
 							<hr style="clear: both;">
@@ -74,6 +85,8 @@
 								<p>2012 - 2014</p>
 							</header>
 							<p>Web Application Platform, Developed In PHP</p>
+							<p>Read More at <a href="http://www.forumzbb.com" target="_blank">Forumzbb.com</a><br>
+								View Beta at <a href="http://beta.forumzbb.com" target="_blank">beta.forumzbb.com</a></p>
 							
 							<hr>
 							

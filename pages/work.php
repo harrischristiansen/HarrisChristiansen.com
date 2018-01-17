@@ -18,6 +18,19 @@
 						<section id="content">
 							
 							<header>
+								<h3>Software Engineer - Apps and Frameworks - Apple - <i class="icon-objc" title="Objective C"></i></h3>
+								<p>Cupertino, CA - Summer 2018 to Present</p>
+							</header>
+							<ul>
+								<li>Developed new macOS/iOS/tvOS/watchOS features for Apple products</li>
+								<li>Contributed to bug/feature work across many applications and frameworks, including Settings, Accounts, and iCloud</li>
+							</ul>
+							
+							<a href="https://www.apple.com" target="_blank">www.apple.com</a>
+							
+							<hr>
+							
+							<header>
 								<h3>iOS Software Engineering Intern - Facebook - <i class="icon-objc" title="Objective C"></i> <i class="icon-php" title="PHP"></i> <i class="icon-mysql-alt" title="Mysql"></i></h3>
 								<p>Menlo Park, CA - Summer 2017</p>
 							</header>

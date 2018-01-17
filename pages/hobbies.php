@@ -1,7 +1,7 @@
 <?
 	$page = "hobbies";
 	$pageTitle = "Hobbies";
-	$pageDesc = "Harris Christiansen spends his time attending hackathons, prototyping hardware, exploring new technologies, and keeping up with his favorite tv shows.";
+	$pageDesc = "Harris Christiansen spends his time attending hackathons, prototyping hardware, enhancing his smart home, and exploring new technologies.";
 	$pageKeywords = "Harris, Christiansen, Christianson, Christensen, Christenson, Software Developer, Planet Maelstrom, Forumzbb, Harris C, Utah, Salt Lake City, Purdue, Portfolio, Hackathons, PHP, Python, OpenCV, Java, Vuforia, Quadcopter, Drone, iDrone, Javascript, Unity, C#, Maya";
 	$pageKeywords += ", Hobbies, 3D Printing, Cube, Maya, CAD, TV";
 	require($_SERVER['DOCUMENT_ROOT']."/header.php");
@@ -18,11 +18,22 @@
 						<section id="content">
 							
 							<header>
+								<h3><i class="icon fa-home"></i> - Smart Homes</h3>
+							</header>
+							<p>Own and develop software + products for smart homes - including lights, sound, remotes, and security.</p>
+							<ul>
+								<li>Hue Webcontrols: <a href="https://github.com/harrischristiansen/hue_webcontrols" target="_blank" title="Hue Webcontrols on Github">Github</a></li>
+								<li>Arduino: <a href="https://github.com/harrischristiansen/Arduino" target="_blank" title="Arduino Projects on Github">Github</a></li>
+							</ul>
+							
+							<hr>
+							
+							<header>
 								<h3><i class="icon fa-wrench"></i> - Hackathons</h3>
-								<p>2014 - Present</p>
+								<p>2014 - 2017</p>
 							</header>
 							<p>Attend Hackathons Across the Nation</p>
-							<a href="/hackathons">Read More</a>
+							<a href="/hackathons">View List of Hackathons, Projects, and Awards</a>
 							
 							<hr>
 							

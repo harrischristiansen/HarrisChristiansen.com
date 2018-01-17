@@ -10,7 +10,10 @@
 			<section id="banner">
 				<div class="inner">
 					<h2>Harris Christiansen</h2>
-					<p>Creator and Innovator</p>
+					<p>
+						Software Engineer, Apple<br>
+						BS Computer Science, Purdue University, Class of 2018
+					</p>
 				</div>
 			</section>
 
