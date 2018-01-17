@@ -56,6 +56,19 @@
 							<hr>
 							
 							<header>
+								<h3>Teaching Assistant - Purdue University - <i class="icon-python" title="Python"></i> <i class="icon-php" title="PHP"></i> <i class="icon-java" title="Java"></i></h3>
+								<p>West Lafayette, IN - Fall 2015, Fall 2016, Spring 2017</p>
+							</header>
+							<ul>
+								<li>TA for Purdue CS190 Freshman Tools and CS390 Programming Languages</li>
+								<li>Engineer for joint project between Purdue CS Dept. and IBM</li>
+							</ul>
+							
+							<a href="https://cs.purdue.edu" target="_blank">www.cs.purdue.edu</a>
+							
+							<hr>
+							
+							<header>
 								<h3>iOS Apps and Frameworks - Software Engineering Intern - Apple - <i class="icon-objc" title="Objective C"></i></h3>
 								<p>Cupertino, CA - Summer 2016</p>
 							</header>
