@@ -14,17 +14,22 @@
 						Software Engineer, Apple<br>
 						BS Computer Science, Purdue University, Class of 2018
 					</p>
+					<!---
+					<br>
+					<a href="/work" class="button special small"><i class="icon fa-briefcase"></i> Work Experience</a>
+					<a href="/projects" class="button special small"><i class="icon fa-cubes"></i> Projects</a>
+					--->
 				</div>
 			</section>
 
-		<!-- One -->
+		<!-- Intro -->
 			<section id="about" class="wrapper style1 special">
 				<div class="container">
-						<header class="major">
-							<h2>Born and Raised<br />
-							In Salt Lake City, Utah</h2>
-						</header>
-						<p style="padding-bottom: 4em;">Today I attend Purdue University in West Lafayette, Indiana. I spend my time traveling the nation attending hackathons, solving problems and exploring new ideas. I am a skilled programmer with a knack for hardware. I am driven by curiosity, and I love to learn and try new things.</p>
+					<header class="major">
+						<h2>Born and Raised<br />
+						In Salt Lake City, Utah</h2>
+					</header>
+					<p style="padding-bottom: 4em;">Today I attend Purdue University in West Lafayette, Indiana. I spend my time traveling the nation attending hackathons, solving problems and exploring new ideas. I am a skilled programmer with a knack for hardware. I am driven by curiosity, and I love to learn and try new things.</p>
 				</div>
 			</section>
 		
@@ -75,7 +80,7 @@
 							</section>
 						</div>
 					</div>
-					<a href="/projects" class="button special small">View More Projects</a>
+					<a href="/projects" class="button special small"><i class="icon fa-cubes"></i> View More Projects</a>
 				</div>
 			</section>
 		
@@ -152,6 +157,7 @@
 							</section>
 						</div>
 					</div>
+					<a href="/work" class="button special small"><i class="icon fa-briefcase"></i> See Work Experience</a>
 					<a href="/resume_HarrisChristiansen.pdf" class="button special small"><i class="icon fa-download"></i> Download Resume</a>
 				</div>
 			</section>
