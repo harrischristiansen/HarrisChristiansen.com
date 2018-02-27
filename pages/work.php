@@ -3,7 +3,7 @@
 	$pageTitle = "Work Experience";
 	$pageDesc = "Harris Christiansen has experience working at many companies around the country, developing new technologies in a variety of fields.";
 	$pageKeywords = "Harris, Christiansen, Christianson, Christensen, Christenson, Software Developer, Planet Maelstrom, Forumzbb, Harris C, Utah, Salt Lake City, Purdue, Portfolio, Hackathons, PHP, Python, OpenCV, Java, Vuforia, Quadcopter, Drone, iDrone, Javascript, Unity, C#, Maya";
-	$pageKeywords += ", iDrone, Verbatim Solutions, CTO, Web Developer, Web Application Developer, AGA Systems, CAD, Waterford, Waterford School, Palmer Christiansen, Project Engineer, Spivey Engineering, Video Game Developer, Waterford Institute, Apple, iOS Apps and Frameworks, Apple Software Engineering";
+	$pageKeywords += ", iDrone, Verbatim Solutions, CTO, Web Developer, Web Application Developer, AGA Systems, CAD, Waterford, Waterford School, Palmer Christiansen, Project Engineer, Spivey Engineering, Video Game Developer, Waterford Institute, Apple, iOS Apps and Frameworks, Apple Software Engineering, Apps and Frameworks, Facebook, Intern";
 	require($_SERVER['DOCUMENT_ROOT']."/header.php");
 ?>
 
@@ -18,7 +18,7 @@
 						<section id="content">
 							
 							<header>
-								<h3>Software Engineer - Apps and Frameworks - Apple - <i class="icon-objc" title="Objective C"></i></h3>
+								<h3><i>Software Engineer - Apps and Frameworks,</i> Apple - <i class="icon-objc" title="Objective C"></i></h3>
 								<p>Cupertino, CA - Summer 2018 to Present</p>
 							</header>
 							<ul>
@@ -31,7 +31,7 @@
 							<hr>
 							
 							<header>
-								<h3>iOS Software Engineering Intern - Facebook - <i class="icon-objc" title="Objective C"></i> <i class="icon-php" title="PHP"></i> <i class="icon-mysql-alt" title="Mysql"></i></h3>
+								<h3><i>iOS Software Engineering Intern,</i> Facebook - <i class="icon-objc" title="Objective C"></i> <i class="icon-php" title="PHP"></i> <i class="icon-mysql-alt" title="Mysql"></i></h3>
 								<p>Menlo Park, CA - Summer 2017</p>
 							</header>
 							<ul>
@@ -44,7 +44,7 @@
 							<hr>
 							
 							<header>
-								<h3>Software Engineering Intern - Perceive Inc - <i class="icon-python" title="Python"></i> <i class="icon-html" title="HTML"></i> <i class="icon-css" title="CSS"></i> <i class="icon-javascript" title="Javascript"></i></h3>
+								<h3><i>Software Engineering Intern,</i> Perceive Inc - <i class="icon-python" title="Python"></i> <i class="icon-html" title="HTML"></i> <i class="icon-css" title="CSS"></i> <i class="icon-javascript" title="Javascript"></i></h3>
 								<p>West Lafayette, IN - Fall 2016</p>
 							</header>
 							<ul>
@@ -56,7 +56,7 @@
 							<hr>
 							
 							<header>
-								<h3>Teaching Assistant - Purdue University - <i class="icon-python" title="Python"></i> <i class="icon-php" title="PHP"></i> <i class="icon-java" title="Java"></i></h3>
+								<h3><i>Teaching Assistant,</i> Purdue University - <i class="icon-python" title="Python"></i> <i class="icon-php" title="PHP"></i> <i class="icon-java" title="Java"></i></h3>
 								<p>West Lafayette, IN - Fall 2015, Fall 2016, Spring 2017</p>
 							</header>
 							<ul>
@@ -69,7 +69,7 @@
 							<hr>
 							
 							<header>
-								<h3>iOS Apps and Frameworks - Software Engineering Intern - Apple - <i class="icon-objc" title="Objective C"></i></h3>
+								<h3><i>Software Engineering Intern - iOS Apps and Frameworks,</i> Apple - <i class="icon-objc" title="Objective C"></i></h3>
 								<p>Cupertino, CA - Summer 2016</p>
 							</header>
 							<ul>
@@ -82,7 +82,7 @@
 							<hr>
 							
 							<header>
-								<h3>Technical HR Intern - Apple - <i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-php" title="PHP"></i> <i class="icon-mysql-alt" title="Mysql"></i> <i class="icon-python" title="Python"></i></h3>
+								<h3><i>Technical HR Intern,</i> Apple - <i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-php" title="PHP"></i> <i class="icon-mysql-alt" title="Mysql"></i> <i class="icon-python" title="Python"></i></h3>
 								<p>Cupertino, CA - Summer 2015</p>
 							</header>
 							<ul>
@@ -95,13 +95,13 @@
 							<hr>
 							
 							<header>
-								<h3>CTO - iDrone - <i class="icon-python" title="Python"></i> <i class="icon-csharp" title="C#"></i> <i class="icon fa-apple" title="iOS"></i> <i class="icon fa-android" title="Android"></i></h3>
+								<h3><i>CTO,</i> iDrone - <i class="icon-python" title="Python"></i> <i class="icon-csharp" title="C#"></i> <i class="icon fa-apple" title="iOS"></i> <i class="icon fa-android" title="Android"></i></h3>
 								<p>Salt Lake City, UT - Summer 2014-Spring 2015</p>
 							</header>
 							<ul>
-								<li>Developing the future of UAV technologies</li>
-								<li>Design and develop custom drones</li>
-								<li>Develop autonomous flight systems and platforms</li>
+								<li>Designed and developed custom drones</li>
+								<li>Developed programmable flight controller for drones, intended to support a drone app-store</li>
+								<li>Developed autonomous flight systems and platforms</li>
 							</ul>
 							
 							<a href="http://www.iDrone.com" target="_blank">www.iDrone.com</a>
@@ -109,7 +109,7 @@
 							<hr>
 							
 							<header>
-								<h3>Web Developer - Verbatim Solutions - <i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-php" title="PHP"></i> <i class="icon-mysql-alt" title="Mysql"></i></h3>
+								<h3><i>Web Developer,</i> Verbatim Solutions - <i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-php" title="PHP"></i> <i class="icon-mysql-alt" title="Mysql"></i></h3>
 								<p>Salt Lake City, UT – Summer 2014-Spring 2015</p>
 							</header>
 							<ul>
@@ -120,7 +120,7 @@
 							
 							<hr>
 							<header>
-								<h3>Lead Web Application Developer - AGA Systems Inc - <i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-php" title="PHP"></i> <i class="icon-mysql-alt" title="Mysql"></i></h3>
+								<h3><i>Lead Web Application Developer,</i> AGA Systems Inc - <i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-php" title="PHP"></i> <i class="icon-mysql-alt" title="Mysql"></i></h3>
 								<p>Kaysville, UT – Summer 2013-Present</p>
 							</header>
 							<ul>
@@ -132,7 +132,7 @@
 							<hr>
 							
 							<header>
-								<h3>CAD Designer - Waterford School - <i class="icon fa-wrench" title="Autodesk Inventor"></i></h3>
+								<h3><i>CAD Designer,</i> Waterford School - <i class="icon fa-wrench" title="Autodesk Inventor"></i></h3>
 								<p>Sandy, UT - Summer 2014</p>
 							</header>
 							<ul>
@@ -143,7 +143,7 @@
 							<hr>
 							
 							<header>
-								<h3>Project Engineer - Palmer Christiansen - <i class="icon-html" title="HTML"></i> <i class="icon-css" title="CSS"></i></h3>
+								<h3><i>Project Engineer,</i> Palmer Christiansen - <i class="icon-html" title="HTML"></i> <i class="icon-css" title="CSS"></i></h3>
 								<p>Salt Lake City, UT – Summer 2012</p>
 							</header>
 							<ul>
@@ -156,7 +156,7 @@
 							<hr>
 							
 							<header>
-								<h3>Web Developer - Spivey Engineering - <i class="icon-html" title="HTML"></i> <i class="icon-css" title="CSS"></i></h3>
+								<h3><i>Web Developer,</i> Spivey Engineering - <i class="icon-html" title="HTML"></i> <i class="icon-css" title="CSS"></i></h3>
 								<p>Spring 2012</p>
 							</header>
 							<ul>
@@ -167,11 +167,11 @@
 							<hr>
 							
 							<header>
-								<h3>Intern, Video Game Developer - Waterford Institute - <i class="icon-html" title="HTML"></i> <i class="icon-css" title="CSS"></i> <i class="icon-javascript" title="Javascript"></i></h3>
+								<h3><i>Video Game Developer Intern,</i> Waterford Institute - <i class="icon-html" title="HTML"></i> <i class="icon-css" title="CSS"></i> <i class="icon-javascript" title="Javascript"></i></h3>
 								<p>Salt Lake City, UT – Summer 2011</p>
 							</header>
 							<ul>
-								<li>Used HTML5 Canvas to create educational games intended for use in elementary classroom settings</li>
+								<li>Developed educational video games to be played by elementary students using HTML5 Canvas, Javascript, and Node.JS</li>
 								<li>Developed a chat room server using node.js to add multiplayer functionality</li>
 							</ul>
 							<a href="http://www.Waterford.org" target="_blank">www.Waterford.org</a>

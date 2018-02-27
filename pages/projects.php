@@ -17,24 +17,38 @@
 					<!-- Content -->
 						<section id="content">
 							
+							<span class="right"><img src="http://files.harrischristiansen.com/0L1R2p3G2s05/cryptocards_logo.png" alt="CryptoCards" style="float: right; max-height: 270px;"></span>
+							<header>
+								<h3>CryptoCards - <i class="icon-php" title="PHP"></i> <i class="icon-laravel" title="Laravel"></i> <i class="icon-mysql-alt" title="Mysql"></i> <i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-javascript" title="Javascript"></i></h3>
+								<p>Spring 2018</p>
+							</header>
+							<p><a href="http://www.cryptogame.trade" target="_blank">CryptoCards</a> is a game centered around unique playing cards which you can battle against other players. Each card is one-of-a-kind and 100% owned by you; it cannot be replicated, taken away, or destroyed.</p>
+							<p>CryptoCards is powered by the <a href="https://ethereum.org" target="_blank">Ethereum</a> blockchain.</p>
+							<p>View Game at <a href="http://www.cryptogame.trade" target="_blank">cryptogame.trade</a><br>
+							Source available on <a href="https://github.com/CryptoCardsETH" target="_blank">GitHub</a>
+							</p>
+							
+							<hr style="clear: both;">
+							
 							<span class="image right"><img src="http://files.harrischristiansen.com/3r2N0m123I1K/hue_webcontrol.png" alt="Hue Webcontrols" style="float: right; max-height: 270px;"></span>
 							<header>
 								<h3>Hue Webcontrols - <i class="icon-php" title="PHP"></i> <i class="icon-laravel" title="Laravel"></i> <i class="icon-mysql-alt" title="Mysql"></i> <i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-javascript" title="Javascript"></i></h3>
 								<p>Fall 2017</p>
 							</header>
 							<p>Web interface for viewing and controlling smart home lights.</p>
-							<p>View Source on <a href="https://github.com/harrischristiansen/hue_webcontrols" target="_blank">GitHub</a><br>
-								View Controls at <a href="http://www.harrischristiansen.com/hue" target="_blank">harrischristiansen.com/hue</a></p>
+							<p>Launch Controller at <a href="http://control.show" target="_blank">control.show</a><br>
+								Source available on <a href="https://github.com/harrischristiansen/hue_webcontrols" target="_blank">GitHub</a>
+							</p>
 							
 							<hr style="clear: both;">
 							
-							<span class="image right"><img src="images/projects/generals.png" alt="Generals.io" style="float: right; max-height: 270px;"></span>
+							<span class="right"><img src="images/projects/generals.png" alt="Generals.io" style="float: right; max-height: 270px;"></span>
 							<header>
 								<h3>Generals.io Bot - <i class="icon-python" title="Python"></i></h3>
 								<p>Spring 2017</p>
 							</header>
 							<p>Automated client (bot) for playing generals.io, a web based multiplayer game.</p>
-							<p>View Bot Source on <a href="https://github.com/harrischristiansen/generals-bot" target="_blank">GitHub</a><br>
+							<p>Bot Source available on <a href="https://github.com/harrischristiansen/generals-bot" target="_blank">GitHub</a><br>
 								Play Generals at <a href="http://www.generals.io/" target="_blank">Generals.io</a></p>
 							
 							<hr style="clear: both;">
@@ -55,7 +69,7 @@
 							</header>
 							<p>Web-application for managing Purdue Hackers members, events, and community involvement.</p>
 							<p>Visit at <a href="http://www.purduehackers.com/" target="_blank">www.PurdueHackers.com</a><br>
-								View Source On <a href="https://github.com/harrischristiansen/MembersPortal" target="_blank">GitHub</a></p>
+								Source available on <a href="https://github.com/harrischristiansen/MembersPortal" target="_blank">GitHub</a></p>
 							
 							<hr style="clear: both;">
 							
@@ -66,11 +80,11 @@
 							</header>
 							<p>Developed Server, web-application, and sample clients for the Purdue Hackers Battleship event. Used by over 100 students.</p>
 							<p>Find it on <a href="https://github.com/harrischristiansen/PH_Battleship" target="_blank">GitHub</a><br>
-								Facebook Event: <a href="https://www.facebook.com/events/1500273880281410/" target="_blank">Here</a></p>
+								Facebook Event: <a href="https://www.facebook.com/events/1500273880281410/" target="_blank">Spring 2016</a> and <a href="https://www.facebook.com/events/1109648792445059/" target="_blank">Fall 2016</a></p>
 							
 							<hr style="clear: both;">
 							
-							<span class="image right"><img src="images/projects/pm.png" alt="Planet Maelstrom" style="max-height: 300px;"></span>
+							<span class="right"><img src="images/projects/pm.png" alt="Planet Maelstrom" style="float: right; max-height: 300px;"></span>
 							<header>
 								<h3>Planet Maelstrom - <i class="icon-csharp" title="C#"></i> <i class="icon fa-cube" title="Autodesk Maya"></i></h3>
 								<p>Summer 2014</p>
@@ -78,7 +92,7 @@
 							<p>3D MMORPG Video Game World Builder. Allows players to create objects and manipulate the environment.</p>
 							<p>All models drawn in Autodesk Maya. Game made using Unity Engine with C#. Web interface developed in PHP.</p>
 							
-							<hr style="clear: both;">
+							<br><hr style="clear: both;">
 							
 							<header>
 								<h3>ForumzBB - <i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-php" title="PHP"></i> <i class="icon-mysql-alt" title="Mysql"></i></h3>
@@ -95,7 +109,7 @@
 								<p>The Waterford School, Sandy, UT - 2010 - 2014</p>
 							</header>
 							<ul>
-								<li>Team Captain - Managed team of 25 Students</li>
+								<li>Team Captain - Grew team from 8 students to 40 students</li>
 								<li>Placed first in qualifiers and won the FIRST Regional Competition in Las Vegas, NV. Also received the Quality Award by Motorola in 2013.</li>
 								<li>Won the FIRST Regional Competition in Salt Lake City, UT and Las Vegas, NV in 2012.</li>
 								<li>Developed crowd scouting application for the robotics competition. - <i class="icon-html" title="HTML5"></i> <i class="icon-css" title="CSS3"></i> <i class="icon-php" title="PHP"></i> <i class="icon-mysql-alt" title="Mysql"></i></li>

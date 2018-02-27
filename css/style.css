@@ -48,6 +48,10 @@
 	em, i {
 		font-style: italic;
 	}
+	
+	h3 i {
+		font-weight: normal;
+	}
 
 	p {
 		margin: 0 0 2em 0;
