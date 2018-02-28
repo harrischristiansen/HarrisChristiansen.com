@@ -18,7 +18,7 @@
 		<header class="major">
 			<?
 			if(isset($_POST['email'])) {
-				$msgTo="harris@harrischristiansen.com";
+				$msgTo="contact@harrischristiansen.com";
 				$nameFrom = htmlentities(clean_string($_POST['name']));
 				$contactEmail = clean_string($_POST['email']);
 				$userMsg = htmlentities(clean_string($_POST['message']));

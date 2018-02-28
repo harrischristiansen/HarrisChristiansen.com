@@ -9,7 +9,7 @@
 					<li><a href="https://www.linkedin.com/in/harrischristiansen" class="icon fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
 					<li><a href="https://angel.co/harrischristiansen" class="icon fa-angellist" target="_blank"><span class="label">AngelList</span></a></li>
 					<li><a href="https://earn.com/harrischristiansen" class="icon fa-bitcoin" target="_blank"><span class="label">Earn</span></a></li>
-					<li><a href="mailto:harris@harrischristiansen.com" class="icon fa-envelope"><span class="label">Email</span></a></li>
+					<li><a href="mailto:contact@harrischristiansen.com" class="icon fa-envelope"><span class="label">Email</span></a></li>
 				</ul>
 				<div class="copyright">
 					&copy; Harris Christiansen. All rights reserved.
